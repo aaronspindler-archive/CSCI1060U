@@ -1,4 +1,3 @@
-//Author: Aaron Spindler
 //Date: October 6th, 2015
 //Purpose: Sort an array of 1000 strings from a file using call by reference and call by value
 
