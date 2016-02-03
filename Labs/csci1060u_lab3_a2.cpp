@@ -16,7 +16,7 @@ sys	0m0.032s
 using namespace std;
 
 //Variables
-const int NUM_ELEMENTS = 1000;
+const int NUM_ELEMENTS = 100000000;
 int numsArray[NUM_ELEMENTS];
 
 //Functions Declaration
